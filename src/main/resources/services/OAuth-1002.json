@@ -1,0 +1,10 @@
+{
+  "@class": "org.apereo.cas.support.oauth.services.OAuthRegisteredService",
+  "serviceId": "^(https|imaps)://.*",
+  "name": "OAuthServer",
+  "id": 1002,
+  "clientId": "clientid",
+  "clientSecret": "clientSecret",
+  "jwtAccessToken": true,
+  "bypassApprovalPrompt": true
+}
